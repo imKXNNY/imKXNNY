@@ -28,7 +28,7 @@
   <text x="112" y="220" fill="#9fb3c8" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="20" font-weight="500">AI Workflows • Automation • Fullstack Engineering</text>
 
   <g transform="translate(112 244)">
-    <rect width="190" height="36" rx="18" fill="#1f2937" stroke="#374151"/>
-    <text x="22" y="24" fill="#a78bfa" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="16" font-weight="600">Business-Focused Build</text>
+    <rect width="250" height="36" rx="18" fill="#1f2937" stroke="#374151"/>
+    <text x="125" y="24" text-anchor="middle" fill="#a78bfa" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="16" font-weight="600">Business-Focused Build</text>
   </g>
 </svg>
