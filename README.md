@@ -53,3 +53,5 @@ CTO & Co-Founder at **Webton e.U.** — building practical systems at the inters
 ---
 
 > Building systems that are useful in production — not just impressive in demos.
+
+<!-- profile-readme-refresh: 2026-03-01T20:33Z -->
