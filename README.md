@@ -1,10 +1,6 @@
 <p align="center">
   <img src="assets/banner.svg" alt="Profile Banner" width="100%" />
 </p>
-<p align="center">
-  <img src="assets/webton-logo.png" alt="Webton Logo" width="320" />
-</p>
-
 
 # Hi, I'm Kenny Güçlü 👋
 
@@ -44,3 +40,7 @@ I build practical software systems focused on **automation, AI-enabled operation
 ---
 
 > Building software that creates measurable business value.
+
+<p align="center">
+  <img src="assets/webton-logo.png" alt="Webton Logo" width="220" />
+</p>
