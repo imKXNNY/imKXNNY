@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="assets/banner.svg" alt="Profile Banner" width="100%" />
+</p>
+
 # Hi, I'm Kenny Güçlü 👋
 
 [![Location](https://img.shields.io/badge/Location-Vienna%2C%20Austria-blue)](https://www.webton.at/)
