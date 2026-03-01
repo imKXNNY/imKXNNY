@@ -1,30 +1,48 @@
 # Hi, I'm Kenny Güçlü 👋
 
-CTO & Co-Founder at **Webton e.U.** in Vienna.
-I build practical software systems at the intersection of **Fullstack**, **AI workflows**, and **automation**.
+[![Location](https://img.shields.io/badge/Location-Vienna%2C%20Austria-blue)](https://www.webton.at/)
+[![Role](https://img.shields.io/badge/Role-CTO%20%26%20Co--Founder-6f42c1)](https://www.webton.at/)
+[![Focus](https://img.shields.io/badge/Focus-AI%20Workflows%20%2B%20Automation-0a7ea4)](#what-im-focused-on)
 
-## What I'm focused on
-- Multi-repo AI operations and workflow systems
+CTO & Co-Founder at **Webton e.U.** — building practical systems at the intersection of **Fullstack**, **AI operations**, and **automation**.
+
+---
+
+## 🚀 What I'm focused on
+- Multi-repo AI workflow systems
 - AI-assisted coding and delivery pipelines
 - Productized automation for real business use cases
 - Reliable, testable, production-ready integrations
 
-## Current core projects
-- **Default-AI-Workflow-Commands (DAWC)** — workflow contracts, sync architecture, context optimization
-- **Webton AIO AI Business** — shared layer connecting Chatbots, Kundenportal, and LeadPilot
-- **Webton Chatbots** — conversational AI and operational automation
-- **Webton LeadPilot** — lead generation workflows and integrations
+## 🧭 Now / Next
+**Now**
+- Hardening DAWC (workflow contracts, sync, context optimization)
+- Running AI Intel pipeline for continuous improvement
 
-## Working style
-- Issue-first execution
-- Small, validated slices
-- Clear docs/runbooks
-- Strong bias for practical ROI over hype
+**Next**
+- Resume AIO expansion as soon as Kundenportal blockers are cleared
+- Push reliability and quality loops further across repos
 
-## Tech I use often
+## 🧩 Core projects
+- **Default-AI-Workflow-Commands (DAWC)**
+  - Workflow contracts, hybrid sync architecture, context guard
+- **Webton AIO AI Business**
+  - Shared layer connecting Chatbots, Kundenportal, LeadPilot
+- **Webton Chatbots**
+  - Conversational AI + operational automation
+- **Webton LeadPilot**
+  - Lead generation workflows and integrations
+
+## ⚙️ Tech I use often
 `TypeScript` `React` `Next.js` `Vite` `Node.js` `Python` `Docker` `Supabase` `Firebase`
 
-## Let's connect
+## 🛠️ Working style
+- Issue-first execution
+- Small, validated slices
+- Clear docs + runbooks
+- Practical ROI over hype
+
+## 🤝 Connect
 - 🌐 https://www.webton.at/
 - 📍 Vienna, Austria
 
