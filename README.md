@@ -1,6 +1,10 @@
 <p align="center">
   <img src="assets/banner.svg" alt="Profile Banner" width="100%" />
 </p>
+<p align="center">
+  <img src="assets/webton-logo.png" alt="Webton Logo" width="320" />
+</p>
+
 
 # Hi, I'm Kenny Güçlü 👋
 
